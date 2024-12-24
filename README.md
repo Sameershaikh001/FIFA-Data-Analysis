@@ -7,21 +7,6 @@ Explore FIFA player data using Python and enhance your data science skills. This
 - **Exploratory Data Analysis (EDA)**: Gaining insights through statistical analysis and visualizations.
 - **Advanced Visualizations**: Presenting data trends effectively using modern tools.
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/fifa-data-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd fifa-data-analysis
-   ```
-3. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Dataset
 The dataset used for this analysis was sourced by scraping FIFA player statistics from [Sofifa](https://sofifa.com/players?offset=). The cleaned data is also available as a CSV file in the `data/` directory.
 
